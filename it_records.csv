@@ -1,0 +1,33 @@
+empid,empname,city,sal,age,dob,dept
+E002,Sarah Miller,Los Angeles,81200,34,1991-04-23,HR
+E005,Daniel Wilson,Phoenix,91300,45,1980-09-19,IT
+E009,Ryan Harris,Dallas,57700,25,2000-11-09,HR
+E010,Olivia Martin,San Jose,66800,33,1992-07-30,IT
+E015,Noah King,Charlotte,90400,42,1983-06-19,IT
+E017,Lucas Scott,Indianapolis,61300,27,1998-12-14,HR
+E022,Lily Gonzalez,El Paso,69200,31,1994-04-27,IT
+E025,Isaac Mitchell,Memphis,64500,29,1996-10-17,HR
+E028,Hannah Turner,Las Vegas,84700,35,1990-11-25,IT
+E032,Riley Evans,Albuquerque,88500,41,1984-08-02,HR
+E034,Penelope Collins,Fresno,91200,38,1987-12-09,IT
+E038,Audrey Rogers,Omaha,62100,26,1999-09-27,HR
+E039,Joseph Reed,Colorado Springs,70700,28,1997-02-19,IT
+E044,Eleanor Bailey,Minneapolis,58300,27,1998-11-07,HR
+E045,Anthony Rivera,Tulsa,90200,42,1983-07-15,IT
+E050,Claire Ward,Cleveland,75400,34,1991-06-01,HR
+E051,Leo Torres,Anaheim,80400,36,1989-04-17,IT
+E056,Maya Watson,Corpus Christi,68900,30,1995-01-31,HR
+E057,Grayson Brooks,Irvine,85700,38,1987-02-28,IT
+E063,Jonathan Barnes,Anchorage,87700,39,1986-06-22,IT
+E064,Naomi Ross,Plano,64600,26,1999-10-15,HR
+E069,Charles Powell,Chula Vista,83200,35,1990-05-25,IT
+E070,Piper Long,Fort Wayne,60300,27,1998-04-12,HR
+E076,Anna Hamilton,Lincoln,58200,25,2000-09-13,HR
+E077,Nolan Graham,Buffalo,72400,32,1993-02-02,IT
+E082,Julia Stone,Lubbock,55900,24,2001-12-03,HR
+E083,Christian Warren,Garland,86100,40,1985-03-05,IT
+E089,Gabriel Bryant,North Las Vegas,90400,42,1983-11-06,IT
+E090,Stella Newman,Fremont,55300,23,2002-03-23,HR
+E095,Jordan Stevenson,Richmond,83400,37,1988-02-14,IT
+E096,Elise Hardy,Des Moines,58300,24,2001-05-30,HR
+E100,Aurora Briggs,Akron,82300,38,1987-10-01,IT
